@@ -158,13 +158,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - Kalman Filter based on Rudolf E. Kálmán's original work
 - One Euro Filter based on [Géry Casiez's research](http://cristal.univ-lille.fr/~casiez/1euro/)
-
-## 📞 Support
-
-- **Issues**: [GitHub Issues](https://github.com/yourusername/AdvancedFilters/issues)
-- **Discord**: [Join our community](https://discord.gg/yourserver)
-- **Email**: support@yourcompany.com
-
----
-
-Made with ❤️ for the Unreal Engine community
