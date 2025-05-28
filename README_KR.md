@@ -158,13 +158,3 @@ Event Tick:
 
 - 칼만 필터는 Rudolf E. Kálmán의 원본 연구를 기반으로 합니다
 - 원유로 필터는 [Géry Casiez의 연구](http://cristal.univ-lille.fr/~casiez/1euro/)를 기반으로 합니다
-
-## 📞 지원
-
-- **이슈**: [GitHub Issues](https://github.com/yourusername/AdvancedFilters/issues)
-- **디스코드**: [커뮤니티 참여](https://discord.gg/yourserver)
-- **이메일**: support@yourcompany.com
-
----
-
-언리얼 엔진 커뮤니티를 위해 ❤️를 담아 제작했습니다
